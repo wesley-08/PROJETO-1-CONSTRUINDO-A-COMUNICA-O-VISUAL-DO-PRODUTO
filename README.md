@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/ecf40873-10dc-4f6f-b168-cf8e432ceff8)
 
+
+<h4>O termo "WesleyTech" parece ser uma combinação de um nome próprio (Wesley) com a palavra "Tech" (abreviação de technology, ou tecnologia em inglês).</h4>
 # 🎨 Paleta de Cores
 | Cor          | Código Hexadecimal | Justificativa                                                                               |
 | ------------ | ------------------ | ------------------------------------------------------------------------------------------- |
