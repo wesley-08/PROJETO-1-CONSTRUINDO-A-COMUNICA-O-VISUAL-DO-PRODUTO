@@ -2,6 +2,7 @@
 
 
 <h4>O termo "WesleyTech" parece ser uma combinação de um nome próprio (Wesley) com a palavra "Tech" (abreviação de technology, ou tecnologia em inglês).</h4>
+
 # 🎨 Paleta de Cores
 | Cor          | Código Hexadecimal | Justificativa                                                                               |
 | ------------ | ------------------ | ------------------------------------------------------------------------------------------- |
@@ -15,6 +16,7 @@
 | ----------- | -------------------- | ------------ | ---------------------------------------------------------------------------- |
 | Fredoka One | Moderna, arredondada | Títulos      | Traz uma **personalidade amigável e acessível**, com boa presença visual.    |
 | Poppins     | Limpa, geométrica    | Texto normal | **Fácil leitura**, combina com o design digital e mantém o foco na mensagem. |
+
 
 # 🖼️ Elementos Visuais
 Ícones Utilizados:
