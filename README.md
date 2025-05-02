@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ecf40873-10dc-4f6f-b168-cf8e432ceff8)
+
 # 🎨 Paleta de Cores
 | Cor          | Código Hexadecimal | Justificativa                                                                               |
 | ------------ | ------------------ | ------------------------------------------------------------------------------------------- |
