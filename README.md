@@ -1,27 +1,30 @@
-🧠 WesleyTech — Identidade Visual
-1. 🎨 Paleta de Cores
+# 🎨 Paleta de Cores
+| Cor          | Código Hexadecimal | Justificativa                                                                               |
+| ------------ | ------------------ | ------------------------------------------------------------------------------------------- |
+| Azul Royal   | #17039D            | Transmite **confiança, tecnologia** e **inovação**, conectando a marca ao universo digital. |
+| Amarelo Ouro | #F4CE6D            | Inspira **otimismo, energia** e **acolhimento**, criando proximidade com o público.         |
+| Branco       | #FFFFFF            | Garante **clareza e contraste**, facilitando a leitura e destacando elementos visuais.      |
+| Cinza Escuro | #333333            | Passa **seriedade** e **profissionalismo**, equilibrando a vibração das cores principais.   |
 
-Cor	Código Hexadecimal	Justificativa
-Azul Royal	#23009F	Transmite confiança, profissionalismo e seriedade — ideal para tecnologia.
-Amarelo Ouro	#F2D16D	Representa conexão, criatividade e inovação — reforça a ideia de rede global.
-Branco	#FFFFFF	Dá equilíbrio, legibilidade e clareza visual no layout.
-Azul Claro	#4FC3F7 (sec.)	Complementa o azul royal com leveza e modernidade.
-2. 🔠 Tipografia
+# 🔠 Tipografia
+| Fonte       | Estilo               | Aplicação    | Justificativa                                                                |
+| ----------- | -------------------- | ------------ | ---------------------------------------------------------------------------- |
+| Fredoka One | Moderna, arredondada | Títulos      | Traz uma **personalidade amigável e acessível**, com boa presença visual.    |
+| Poppins     | Limpa, geométrica    | Texto normal | **Fácil leitura**, combina com o design digital e mantém o foco na mensagem. |
 
-Fonte	Estilo	Aplicação	Justificativa
-Luckiest Guy (ou similar)	Divertida, marcante	Títulos e logotipo	Traz uma identidade jovem e memorável, ideal para se destacar em tecnologia.
-Poppins	Moderna, geométrica, legível	Textos corridos	Mantém a leitura fácil em qualquer dispositivo, reforçando o tom profissional.
-3. 🖼️ Elementos Visuais
-✔ Ícone Global com Usuários:
-O globo com duas figuras humanas transmite:
+# 🖼️ Elementos Visuais
+Ícones Utilizados:
 
-Conectividade global
+🌐 Ícone de globo: representa conectividade global e tecnologia.
 
-Inclusão e comunidade
+👤 Ícone de usuário: simboliza foco no cliente e acesso personalizado.
 
-Tecnologia acessível
+Esses ícones foram usados de forma integrada na logo para transmitir a ideia de rede global de pessoas conectadas.
 
-✔ Estilo Visual:
-Linhas arredondadas e harmoniosas remetem à inovação amigável.
+Sugestão de aplicação dos elementos:
 
-Layout centralizado e limpo, destacando nome e propósito.
+Ícones minimalistas e arredondados
+
+Padrões baseados em linhas e formas geométricas, seguindo a malha do globo
+
+Uso recorrente das cores principais para manter consistência visual
